@@ -2,14 +2,14 @@
 
 Info
 ====
-- Implementation of 'https://github.com/systematicinvestor/SIT'. 
-- Web-scrapes data table from CES (National) of the 'www.bls.gov'.
+- Implementation of https://github.com/systematicinvestor/SIT. 
+- Web-scrapes data table from CES (National) of the www.bls.gov.
 - Formats to a Data Frame structure.
 - Outputs to a .csv (Excel) file.
 
-Require Packages
+Required Packages
 ================
-- 'https://github.com/systematicinvestor/SIT'
+- https://github.com/systematicinvestor/SIT
 
 Output
 ======
